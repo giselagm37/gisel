@@ -12,5 +12,9 @@ public class Main {
     public static void saludar(){
         System.out.println("Hola amigos");
     }
+
+    public static void comprar(){
+        System.out.println("Has comprado algo");
+    }
     
-} git help [command]
+}
