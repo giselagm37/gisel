@@ -9,4 +9,8 @@
  */
 public class Main {
     
-}
+    public static void saludar(){
+        System.out.println("Hola amigos");
+    }
+    
+} git help [command]
